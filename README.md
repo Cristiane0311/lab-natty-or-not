@@ -36,7 +36,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre o impacto dos exercícios
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como os exercícios físicos são importantes e as vantagens que trazem para a saúde mental das pessoas.
 
-E-book - A Importância do Exercício Físico para a Saúde Mental.docx
+https://github.com/Cristiane0311/lab-natty-or-not/blob/main/E-book%20-%20A%20Import%C3%A2ncia%20do%20Exerc%C3%ADcio%20F%C3%ADsico%20para%20a%20Sa%C3%BAde%20Mental.docx
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência incrível sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos e assuntos.
